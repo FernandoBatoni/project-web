@@ -1,6 +1,4 @@
-![juntos-somos-devs](https://user-images.githubusercontent.com/3603793/131751022-fda4146c-9ada-4ad0-82fc-d8f0a73acd3f.png)
-
-# Front-end - Guideline
+# Guideline - Project-Web
 
 - This README.md was copied from [This repository](https://github.com/juntossomosmais/frontend-guideline/blob/main/README.md)
 - The idea is to always follow this guidelines for a better project in general, mine and other I collaborate in the future
